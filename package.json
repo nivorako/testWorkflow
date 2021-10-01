@@ -1,0 +1,11 @@
+{
+  "name": "test-workflow-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nivorako/testWorkflow.git",
+  "author": "nivorako <nivo.rakoto@yahoo.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
